@@ -46,3 +46,6 @@ pip install opencv-python numpy tensorflow cvzone
 4. The processed image is classified using the pre-trained model.
 5. The recognized letter is displayed on the video feed.
 
+## Publications
+
+You can view my published journal here: [Sign Language Recognition Using OpenCV](https://ieeexplore.ieee.org/document/10369046).
